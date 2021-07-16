@@ -1,6 +1,6 @@
-# Objects as Toys / Toys as Functions
+<img width="1040" alt="ottfheader" src="https://user-images.githubusercontent.com/2859450/125895347-9f07c941-b4e5-4b42-8626-e3ad78cd2c68.png">
 
-The proposed workshop aims to explore the functionalist perspective that propose 
+The OTTF workshop aims to explore the functionalist perspective that propose 
 that things are what things do. In that sense, objects — in the broadest sense of the term —,
 much like toys and their embedded possibility of infinite play,  are abstract realisable
 identities constructing and being constructing through contextual performativity.
